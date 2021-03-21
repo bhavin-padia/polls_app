@@ -13,3 +13,8 @@ My Polls app developed in django from its official documentation for fun.
 
 --> Now open 'http://localhost:8000/polls' in your browser.
 
+
+# Admin
+
+--> You can also navigate to 'http://localhost:8000/admin/' to see simple admin template.
+
